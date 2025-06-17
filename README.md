@@ -1,5 +1,9 @@
-## Hi there 👋
+# Bruno Bassini | Técnico universitario de programación👋
 
+🧰 Trabajando en
+            - Portfolio personal  
+            - Sistema de administración de locales: <a href="https://github.com/Bassinii/Proyecto-Hache"> Proyecto Hache </a>
+[![GitHub Streak](https://streak-stats.demolab.com?user=Bassinii&theme=dark&hide_border=true&locale=es&short_numbers=true&date_format=j%2Fn%5B%2FY%5D&exclude_days=Sun%2CSat)](https://git.io/streak-stats)
 <!--
 **Bassinii/Bassinii** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
