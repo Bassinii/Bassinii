@@ -5,7 +5,7 @@
 
 - 🔭 Actualmente trabajo en [Sistema de gestión Hache](https://github.com/Bassinii/Proyecto-Hache)
 
-- 🌱 Estoy aprendiendo ** RxJs, GitHub actions, Tailwind**
+- 🌱 Estoy aprendiendo **RxJs, GitHub actions, Tailwind**
 
 - 💬 Preguntame sobre **Angular, .NET(C#), SQL, Java, TypeScript, HTML/CSS, C++**
 
@@ -22,11 +22,8 @@
 <a href="https://instagram.com/thilinalkshan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="thilinalkshan" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/lakshanthilina51" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="lakshanthilina51" height="30" width="40" /></a>
 </p>
-            -->
-[![GitHub Streak](https://streak-stats.demolab.com?user=Bassinii&theme=dark&hide_border=true&locale=es&short_numbers=true&date_format=j%2Fn%5B%2FY%5D&exclude_days=Sun%2CSat)](https://git.io/streak-stats)
-<!--
-**Bassinii/Bassinii** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
+<!--
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
