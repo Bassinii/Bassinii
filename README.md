@@ -3,13 +3,13 @@
 <img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/7e/b2/49/7eb249f2fd2e58e9ad6dd60ef892971b.gif">
 
 
-- 🔭 Actualmente trabajo en [Sistema de gestión Hache](https://github.com/Bassinii/Proyecto-Hache)
+- 🔭 Actualmente trabajo en [Sistema de gestión Hache](https://github.com/Bassinii/Proyecto-Hache).
 
-- 🌱 Estoy aprendiendo **RxJs, GitHub actions, Tailwind**
+- 🌱 Estoy aprendiendo **RxJs, GitHub actions y Tailwind.**
 
-- 💬 Preguntame sobre **Angular, .NET(C#), SQL, Java, TypeScript, HTML/CSS, C++**
+- 💬 Preguntame sobre **Angular, .NET(C#), SQL, Java, TypeScript, HTML/CSS, C++.**
 
-- 📫 Cómo contactarme **brunobassini86@gmail.com**
+- 📫 Dónde contactarme **brunobassini86@gmail.com**
 
 - **🧰PORTAFOLIO EN MANTENIMIENTO🧰**
 
