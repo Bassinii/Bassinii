@@ -11,7 +11,7 @@
 
 - 📫 Dónde contactarme **brunobassini86@gmail.com**
 
-- 📚 Graduado de Programación y Sistemas Informáticos en [UTN](https://utn.edu.ar/es).
+- 📚 Graduado de Programación y Sistemas Informáticos en <a target="blank" href="https://utn.edu.ar/es" >UTN</a>.
 
 - **🧰PORTAFOLIO EN MANTENIMIENTO🧰**
 
