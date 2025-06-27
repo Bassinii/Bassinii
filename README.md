@@ -5,7 +5,7 @@
 
 - 🔭 Actualmente trabajo en [Sistema de gestión Hache](https://github.com/Bassinii/Proyecto-Hache).
 
-- 🌱 Estoy aprendiendo **RxJs, GitHub actions y Tailwind.**
+- 🌱 Estoy aprendiendo más sobre **RxJs, GitHub actions y Tailwind.**
 
 - 💬 Preguntame sobre **Angular, .NET(C#), SQL, Java, TypeScript, HTML/CSS, C++.**
 
