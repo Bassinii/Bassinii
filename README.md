@@ -3,7 +3,7 @@
 <img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/7e/b2/49/7eb249f2fd2e58e9ad6dd60ef892971b.gif">
 
 
-- 🔭 Actualmente trabajo en [GuardeSoftware](https://github.com/MateoBarrios27/Guarde-Software)).
+- 🔭 Actualmente trabajo en [GuardeSoftware](https://github.com/MateoBarrios27/Guarde-Software).
 
 - 🌱 Estoy aprendiendo más sobre **RxJs, GitHub actions y Tailwind.**
 
