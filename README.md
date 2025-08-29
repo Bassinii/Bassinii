@@ -5,7 +5,7 @@
 
 - 🔭 Actualmente trabajo en [GuardeSoftware](https://github.com/MateoBarrios27/Guarde-Software).
 
-- 🌱 Estoy aprendiendo más sobre **RxJs, GitHub actions y Tailwind.**
+- 🌱 Estoy aprendiendo más sobre **Figma y Tailwind.**
 
 - 💬 Preguntame sobre **Angular, .NET(C#), SQL, Java, TypeScript, HTML/CSS, C++.**
 
