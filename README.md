@@ -1,5 +1,5 @@
 <h1 align="center">Hola 👋, Soy Bruno Franco Bassini</h1>
-<h3 align="center">Un apasionado programador de Argentina.</h3>
+<h3 align="center">Un apasionado programador full stack de Argentina.</h3>
 <img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/7e/b2/49/7eb249f2fd2e58e9ad6dd60ef892971b.gif">
 
 
